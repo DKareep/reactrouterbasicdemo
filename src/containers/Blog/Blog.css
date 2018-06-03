@@ -1,0 +1,15 @@
+
+.Navingationul{
+   text-align: center;
+    position: relative;
+    list-style-type: none;
+}
+.Navingationul li {
+    display: inline;
+    margin: 0 10px;
+
+}
+
+.activeCustom {
+    color: orange
+}
